@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:56:23.974264
+# -*- mode: mandoku-view -*-
 #+TITLE: 太古土兌經
-#+PROPERTY: DZID  DZ0949
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—387 一卷（原三卷） 洞神部眾術類
+#+DATE: 2015-08-29 00:56:24
+#+PROPERTY:  LASTPB <PB KR5c0349_SJB_003-190391c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶
+
